@@ -1,6 +1,6 @@
 {
   "viasfora.keyword.flowcontrol": {
-    "foreground": "HotPink",
+    "foreground": "LightCoral",
     "background": "Automatic",
     "style": "None"
   },
@@ -25,7 +25,7 @@
     "style": "None"
   },
   "viasfora.keyword.visibility": {
-    "foreground": "DimGray",
+    "foreground": "OrangeRed",
     "background": "Automatic",
     "style": "None"
   },
